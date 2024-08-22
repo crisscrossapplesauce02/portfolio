@@ -1,0 +1,3 @@
+- html template: shift + !
+- duplicate line: alt + shift + down arrow
+- comment in CSS: ctrl + /
